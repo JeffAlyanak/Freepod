@@ -1,0 +1,12 @@
+title = "Episode 1 — Something"
+
+[About]
+image = "image1.jpg"
+description = "Here's a description of our first episode of this podcast!"
+keywords = "key, word, list"
+released = 2020-01-27
+
+[Audio]
+file = "episode1.mp3"
+duration = "00:33:21"
+bytelength = "80704828"

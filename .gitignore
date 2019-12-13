@@ -1,0 +1,4 @@
+/vendor
+/www/assets/components
+/www/assets/images/cache
+!www/assets/scripts/main.js

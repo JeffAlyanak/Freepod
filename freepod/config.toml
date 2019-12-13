@@ -1,0 +1,9 @@
+title = "My Awesome Cast"
+
+[about]
+description = "We're an awesome podcast!"
+email = "contact@freepod.us"
+
+[website]
+url = "localhost"
+debug = true

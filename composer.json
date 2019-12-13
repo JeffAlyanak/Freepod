@@ -1,0 +1,24 @@
+{
+	"name": "jeffalyanak/freepod",
+	"description": "Free, simple podcast platform with RSS feed compatible with all major platforms!",
+	"keywords": ["podcast", "podcasting"],
+	"homepage": "https://github.com/jeff/freepod",
+	"license": "",
+	"require": {
+		"php": "^7.2",
+		"orbitale/imagemagick-php": "^3.0.10",
+		"yosymfony/toml": "^1.0.4",
+		"components/bootstrap": "3.4.1",
+		"components/jquery": "^3.4.1",
+		"happyworm/jplayer": "2.*"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "^7.5",
+		"kint-php/kint": "^0.9"
+	},
+    "config": {
+		"component-dir": "www/assets/components",
+        "component-baseurl": "/assets/components",
+    	"optimize-autoloader": true
+    }
+}
